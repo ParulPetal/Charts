@@ -3,6 +3,6 @@
 ![](https://github.com/ParulPetal/Charts/blob/master/Doughnut.png)
 ![](https://github.com/ParulPetal/Charts/blob/master/Combo.png)
 ![](https://github.com/ParulPetal/Charts/blob/master/pie.png)
-![](https://github.com/ParulPetal/Charts/blob/master/line.png
+![](https://github.com/ParulPetal/Charts/blob/master/line.png)
 
 
